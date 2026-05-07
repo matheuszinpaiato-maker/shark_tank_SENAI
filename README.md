@@ -1,6 +1,5 @@
 # shark_tank_SENAI
-Nosso projeto é o site/aplicativo BetterTask, Ele é um suporte para alunos e professores que facilita a organização de tarefas, provas e entregas de trabalhos, e um chat com parceria da pep a inteligência artificial do SESI.
-
+Nosso projeto é o site/aplicativo BetterTask, Ele é um suporte para alunos e professores que facilita a organização de tarefas, provas e entregas de trabalhos, Além disso, o BetterTask conta com uma parceria com a instituição escolar SESI, integrando a Inteligência Artificial educacional PEP, que oferece suporte aos estudantes na resolução de dúvidas, principalmente nas áreas de Matemática e Língua Portuguesa, A plataforma foi projetada com uma interface dinâmica, intuitiva e de fácil compreensão, buscando melhorar a experiência dos alunos e tornar o processo de ensino-aprendizagem mais moderno e organizado. Para os alunos, o BetterTask ajuda no melhor planejamento dos estudos e acompanhamento das atividades escolares. Já para os professores, a plataforma facilita o controle de tarefas, avaliações e comunicação com os alunos. o BetterTask tem como principal objetivo utilizar a tecnologia para facilitar a rotina escolar, fortalecer a organização e incentivar um aprendizado mais eficiente e acessível para toda a comunidade escolar.
 ## Colaboradores
 
 | Nome | GitHub |
