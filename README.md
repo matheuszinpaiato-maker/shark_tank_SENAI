@@ -47,3 +47,7 @@ Requisitos funcionais definem oque o sistema deve fazer como o cadastro de novos
 |---|---|
 |[RF01]: Cadastro de Usuário: O sistema deve permitir que novos usuários criem uma conta utilizando e-mail e senha.|[RNF01] - Desempenho: O sistema deve carregar a página de produtos em menos de 3 segundos.|
 |[RF02]: Realizar o login e logout.|[RNF02]: Manter os dados sincronizados em tempo real.|
+
+## Exemplo Tabela Excel
+A tabela no excel serviu como Planilia de Gastos Estimados, para ter uma noção sobre oque o site/app precisa e para uma melhor organização de custos.
+![Excel](https://web.whatsapp.com/abfa7912-35ff-4b0f-b13f-2e5ffbde98cc)
