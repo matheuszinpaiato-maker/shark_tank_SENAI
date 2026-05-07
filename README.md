@@ -29,7 +29,7 @@ https://nicolasaugusto.my.canva.site/better-task/
 |[Word](https://word.cloud.microsoft/)|Documento|
 |[Draw.io](https://app.diagrams.net/)|Diagramas/Wiframes|
 |[Canva](https://www.canva.com)|Site|
-|[Excel](https://excel.cloud.microsoft/)|Tabela de Custos|
+|[Excel](https://excel.cloud.microsoft/)|Planilha de Gastos|
 
 ## Exemplo de Diagrama
 Diagramas são modelos de representação, de forma visual e sequencial, como os objetos dentro de um sistema interagem entre si ao longo do tempo para realizar uma tarefa específica, como um caso de uso. 
