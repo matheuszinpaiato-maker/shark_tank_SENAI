@@ -20,8 +20,12 @@ https://nicolasaugusto.my.canva.site/better-task/
 |[Draw.io](https://app.diagrams.net/)|Diagramas/Wiframes|
 |[Canva](https://www.canva.com)|Site|
 
-## Exempo de Diagrama
+## Exemplo de Diagrama
 ![Diagrama](https://scontent.fcpq7-1.fna.fbcdn.net/v/t1.15752-9/682338736_1698633144464866_4794489319559355574_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=itLNYOaGubgQ7kNvwFhC4E8&_nc_oc=Ado6aXgek3lPRIvqwo9rMw67t2E24WTYgrqQc8n7r2KUNto4Wm7wLATqp4S6sR5rE9A&_nc_zt=23&_nc_ht=scontent.fcpq7-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QEb7tFA8w9B3L5PgiBoTDLOP0htjHDRjIzDf3vhcXoqLg&oe=6A241E5C)
+
+## Exemplo de WireFrame
+![WireFrame](https://scontent.fcpq7-1.fna.fbcdn.net/v/t1.15752-9/685185575_2009999643278679_3204555620097561760_n.png?_nc_cat=107&ccb=1-7&_nc_sid=9f807c&_nc_ohc=f7F2q_5GqLIQ7kNvwFdf-zQ&_nc_oc=AdpWiV0nX0YgD1Pbb9oeXhdR-iwpg9F3UBuBrNaAtUEirFGyWeUrlr-v7zh_aR0QP3Y&_nc_zt=23&_nc_ht=scontent.fcpq7-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QFB27Ce8tYsUxniRFxRzXVJk_jmizrYpQnSNtelYmOpLQ&oe=6A243017).
+![WireFrame](https://scontent.fcpq7-1.fna.fbcdn.net/v/t1.15752-9/683490383_1407024111259469_485847644098573974_n.png?_nc_cat=109&ccb=1-7&_nc_sid=9f807c&_nc_ohc=o3dKmUbHoxQQ7kNvwGrXlCc&_nc_oc=Adomw51IUGEEbuRB6DdmFBKI8UbBe1nCwDYqEOfkbayO3TtEXGi5KztUsegFqMBTCHU&_nc_zt=23&_nc_ht=scontent.fcpq7-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QFQfT-w6DQL0t3lvton902Ab1ci3waXfmYwJ5SLooDJEw&oe=6A243B1A).
 
 ## Exemplos de Requisitos Funcionais e Requisitos não Funcionais
 
