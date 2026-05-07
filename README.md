@@ -1,4 +1,5 @@
 # shark_tank_SENAI
+Nosso projeto é o BetterTask, 
 ## Tecnologias 
 
 |Tecnologia|Descrição|
