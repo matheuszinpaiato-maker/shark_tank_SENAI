@@ -28,5 +28,5 @@ https://nicolasaugusto.my.canva.site/better-task/
 
 | Funcionais | Não Funcionais|
 |---|---|
-|RF01 - Cadastro de Usuário: O sistema deve permitir que novos usuários criem uma conta utilizando e-mail e senha.|RNF01 - Desempenho: O sistema deve carregar a página de produtos em menos de 3 segundos.|
+|[RF01]: Cadastro de Usuário: O sistema deve permitir que novos usuários criem uma conta utilizando e-mail e senha.|[RNF01] - Desempenho: O sistema deve carregar a página de produtos em menos de 3 segundos.|
 |[RF02]: Realizar o login e logout.|[RNF02]: Manter os dados sincronizados em tempo real.|
