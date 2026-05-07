@@ -17,6 +17,7 @@ Nosso projeto é o site/aplicativo BetterTask, Ele é um suporte para alunos e p
 | Giuseppe Vieira | https://github.com/giu333777 |
 | Maycon Gonçalves | https://github.com/Mayconsglz |
 | Nicolas Augusto | https://github.com/NicolasReis7 |
+| Matheus Paiato| https://github.com/matheuszinpaiato-maker |
 
 # Site
 https://nicolasaugusto.my.canva.site/better-task/
@@ -25,9 +26,10 @@ https://nicolasaugusto.my.canva.site/better-task/
 
 |Tecnologia|Descrição|
 |-|-|
-|Word|Documento|
+|[Word](https://word.cloud.microsoft/)|Documento|
 |[Draw.io](https://app.diagrams.net/)|Diagramas/Wiframes|
 |[Canva](https://www.canva.com)|Site|
+|[Excel](https://excel.cloud.microsoft/)|Tabela de Custos|
 
 ## Exemplo de Diagrama
 ![Diagrama](https://scontent.fcpq7-1.fna.fbcdn.net/v/t1.15752-9/682338736_1698633144464866_4794489319559355574_n.png?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_ohc=itLNYOaGubgQ7kNvwFhC4E8&_nc_oc=Ado6aXgek3lPRIvqwo9rMw67t2E24WTYgrqQc8n7r2KUNto4Wm7wLATqp4S6sR5rE9A&_nc_zt=23&_nc_ht=scontent.fcpq7-1.fna&_nc_ss=7b6a8&oh=03_Q7cD5QEb7tFA8w9B3L5PgiBoTDLOP0htjHDRjIzDf3vhcXoqLg&oe=6A241E5C)
