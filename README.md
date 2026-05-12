@@ -21,7 +21,6 @@ Nosso projeto é o site/aplicativo BetterTask, Ele é um suporte para alunos e p
 
 # Site
 https://nicolasaugusto.my.canva.site/better-task/
-
 ## Tecnologias 
 
 |Tecnologia|Descrição|
