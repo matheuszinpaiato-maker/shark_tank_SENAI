@@ -50,3 +50,4 @@ Requisitos funcionais definem oque o sistema deve fazer como o cadastro de novos
 ## Exemplo Tabela Excel
 A tabela no excel serviu como Planilia de Gastos Estimados, para ter uma noção sobre oque o site/app precisa e para uma melhor organização de custos.
 O exemplo dela esta em png.
+![Tabela](https://github.com/matheuszinpaiato-maker/shark_tank_SENAI/blob/main/59672856-855f-4952-aae8-823f90c9a7b8.jpg?raw=true)
